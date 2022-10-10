@@ -123,3 +123,13 @@ section > header [epub|type~="epigraph"] + *{
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
+
+blockquote header{
+	font-variant: small-caps;
+	margin: 2em;
+}
+
+#chapter-3 > blockquote,
+#chapter-11 > blockquote{
+	margin: 0;
+}
