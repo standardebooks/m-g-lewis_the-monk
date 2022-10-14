@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Monk</dc:title>
 		<meta property="file-as" refines="#title">Monk, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Romance</dc:title>
+		<meta property="file-as" refines="#subtitle">Romance, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Monk: A Romance</dc:title>
+		<meta property="file-as" refines="#fulltitle">The Monk</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
 		<dc:subject id="subject-2">Gothic fiction</dc:subject>
 		<dc:subject id="subject-3">Monks -- Fiction</dc:subject>
