@@ -8,7 +8,6 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -51,15 +50,10 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
-	}
 }
 /* End full-page epigraphs */
 
 /* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
 section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
@@ -67,13 +61,11 @@ section > header [epub|type~="epigraph"]{
 	text-align: initial;
 }
 
-article > header [epub|type~="epigraph"] + *,
 section > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
 }
 
 @supports(display: table){
-	article > header [epub|type~="epigraph"],
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
@@ -86,10 +78,6 @@ section > header [epub|type~="epigraph"] + *{
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
-}
-
-[epub|type~="bridgehead"] i{
-	font-style: normal;
 }
 
 [epub|type~="z3998:poem"] [epub|type~="bridgehead"]{
