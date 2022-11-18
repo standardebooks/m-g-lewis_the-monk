@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/m-g-lewis/the-monk</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-11-18T21:50:20Z</dc:date>
+		<meta property="dcterms:modified">2022-11-18T21:50:20Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,13 +50,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A pious monk is led astray by a demon in disguise, while the son of a marquis tries to elope with a local nun.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			note: 4th edition was bowdlerized. this appears to be the 2nd edition.
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/m-g-lewis"&gt;Lewis&lt;/a&gt; claimed to have written &lt;i&gt;The Monk&lt;/i&gt; in just ten weeks, when he was twenty-one years of age. He published the first edition anonymously, sensing that the controversial and then-pornographic nature of the novel would stun society. And so it did—the book was so sensational, so salacious, and so scandalous, that after he put his full name (and title, as a member of Parliament) on the second edition, his reputation hardly recovered for the rest of his life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Monk&lt;/i&gt; is a Gothic horror novel marked by an intricate plot, melodramatic characters, and scenes of shocking terror. It follows two plots: in the first, the celebrated monk Ambrosio meets a mysterious novice at the abbey—a woman, Matilda, posing as a man, who seems to have a powerful, irresistible charisma. Matilda seduces Ambrosio not just in body but in mind, and leads him down a path of darkness and brutal violence. In the other plot, Raymond, the son of a marquis, falls in love with a nun, and the two scheme to live together; but their plans lead to encounters with evil spirits, exorcisms, riots, dungeons, and more.&lt;/p&gt;
+			&lt;p&gt;The novel was shocking for its time in its frank depiction of sexuality and sexual violence, demons, spirits, and scenes of raw horror; but just as shocking was its anti-religious sentiment and thesis that evil often triumphs over good. It sold so well and offended so many that just two years after its publication Lewis was forced to issue a bowdlerized fourth edition, in which any offensive passages were either muted or expunged. Despite this attempt at satisfying society, and despite at least one written apology, Lewis spent the rest of his days in a constant struggle to escape the shadow of &lt;i&gt;The Monk&lt;/i&gt;’s reputation, which he never quite did—even posthumous assessments of him as a person sometimes concluded that the debauched excess depicted &lt;i&gt;The Monk&lt;/i&gt; reflected a failing of his own personal morals.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition follows the full, unexpurgated second edition of the novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/601</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Monk/RvEOAAAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">137957</meta>
+		<meta property="se:reading-ease.flesch">60.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Monk</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-g-lewis_the-monk</meta>
 		<dc:creator id="author">M. G. Lewis</dc:creator>
