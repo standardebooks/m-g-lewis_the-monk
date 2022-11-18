@@ -113,7 +113,6 @@ footer,
 	margin-top: 1em;
 }
 
-
 [epub|type~="z3998:poem"] header p,
 [epub|type~="z3998:verse"] header p{
 	text-align: center;
