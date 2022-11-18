@@ -48,7 +48,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A pious monk is led astray by a demon in disguise, while the son of a marquis tries to elope with a local nun.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			note: 4th edition was bowdlerized. this appears to be the 2nd edition.
 		</meta>
@@ -66,9 +66,11 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80009876</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Anonymous</dc:contributor>
-		<meta property="file-as" refines="#artist">Anonymous</meta>
+		<dc:contributor id="artist">John Collier</dc:contributor>
+		<meta property="file-as" refines="#artist">John Collier</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Collier_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no90006902</meta>
 		<dc:contributor id="transcriber-1">Charles Keller</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Keller, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
