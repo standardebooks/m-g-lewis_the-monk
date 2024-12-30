@@ -48,6 +48,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">7</meta>
 		<dc:description id="description">A pious monk is led astray by a demon in disguise, while the son of a marquis tries to elope with a local nun.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/m-g-lewis"&gt;Lewis&lt;/a&gt; claimed to have written &lt;i&gt;The Monk&lt;/i&gt; in just ten weeks, when he was twenty-one years of age. He published the first edition anonymously, sensing that the controversial and then-pornographic nature of the novel would stun society. And so it did—the book was so sensational, so salacious, and so scandalous, that after he put his full name (and title, as a member of Parliament) on the second edition, his reputation hardly recovered for the rest of his life.&lt;/p&gt;
