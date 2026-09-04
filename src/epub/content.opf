@@ -39,8 +39,8 @@
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
 		<dc:subject id="subject-2">Gothic fiction</dc:subject>
-		<dc:subject id="subject-3">Monks -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Madrid (Spain) -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Monks--Fiction</dc:subject>
+		<dc:subject id="subject-4">Madrid (Spain)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
